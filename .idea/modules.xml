@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/SingleInstanceDemo.iml" filepath="$PROJECT_DIR$/SingleInstanceDemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dclsingleinstance/dclsingleinstance.iml" filepath="$PROJECT_DIR$/dclsingleinstance/dclsingleinstance.iml" />
+    </modules>
+  </component>
+</project>
